@@ -20,11 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav81719&show_icons=true&theme=tokyonight
-
----
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 ---
